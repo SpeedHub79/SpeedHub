@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SpeedHub79/Speed-X/refs/heads/main/PetMutationRandomizer", true))()
+loadstring(game:HttpGet("https://pastefy.app/AIWsVCG5/raw"))()
